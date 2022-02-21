@@ -1,2 +1,2 @@
-.fib_number
-.fib_numbers
+import .fib_number
+import .fib_numbers

@@ -1,3 +1,3 @@
-.fib_calcs
-.cmd
+import .fib_calcs
+import .cmd
 
