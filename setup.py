@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
 name="flitton_fib_py",
-version="0.0.4",
+version="0.0.5",
 author="Maxwell Flitton",
 author_email="maxwell@gmail.com",
 description="Calculates a Fibonacci number",
