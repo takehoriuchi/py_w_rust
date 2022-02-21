@@ -1,3 +1,3 @@
-import .fib_calcs
-import .cmd
+from .fib_calcs import *
+from .cmd import *
 

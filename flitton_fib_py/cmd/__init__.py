@@ -1,1 +1,1 @@
-import .fib_numb
+from .fib_numb import *
